@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-oss(okq984zgw^hls)ly4d08qg!&()*26dq!54=%-^we05hh4)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['hamzafood-env.eba-aeekzk8m.eu-west-1.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['hamzafood-env.eba-aeekzk8m.eu-west-1.elasticbeanstalk.com','d8ea6b2dc6d745d4a375e9eb9dd981cd.vfs.cloud9.eu-west-1.amazonaws.com']
 
 
 # Application definition
