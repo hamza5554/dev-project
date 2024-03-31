@@ -43,7 +43,7 @@ def Product(request, id):
             )
             order_item.save()
 
-            return redirect("Cart")
+            return redirect("cart")
         else:
             return redirect('login')
 
